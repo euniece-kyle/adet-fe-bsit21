@@ -4,6 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-posts',
   standalone: true,
   templateUrl: './posts.component.html',
-  styleUrls: ['./posts.component.css']
+  styleUrls: ['./posts.component.scss']
 })
 export class PostsComponent {}
